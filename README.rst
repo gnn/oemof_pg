@@ -18,7 +18,7 @@ To configure database access this file has to have a section ``[postGIS]``
 section containing the necessary options, like this:
 
   .. code:: INI
-    :name: config.ini
+    :title: config.ini
 
     [postGIS]
     username = username under which to connect to the database
